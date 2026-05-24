@@ -275,7 +275,7 @@ This project is open source. Add your preferred license file (e.g. MIT) before p
 ---
 
 ## Author
-
+Made by Areeba Ahmad
 Built as a hands-on introduction to WhatsApp automation with Flask and Twilio.
 
 For issues or improvements, open a GitHub issue or submit a pull request.
